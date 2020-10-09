@@ -15,10 +15,14 @@ author: Abhishek Kumar
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+
+#Extra resources can be added
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+
+#  Can add my personal website
+#  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
