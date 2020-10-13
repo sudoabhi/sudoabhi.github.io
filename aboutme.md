@@ -4,7 +4,7 @@ title: About me
 subtitle: or why you would want to go on a date with me
 ---
 
-Hi, my name is Abhishek and I am an undergraduate student at Indian Institute of Information and Technology Gwalior and pursuing B.Tech in Information Technology.
+Hi, my name is Abhishek and I am an undergraduate student at Indian Institute of Information and Technology, Gwalior and pursuing B.Tech in Information Technology.
 
 I am good at developing native android apps and enthusiastically learning newer tools to improve my proficiency.
 Currently learning to build multi-platform apps.
