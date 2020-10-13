@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: or: why you would want to go on a date with me
+subtitle: or why you would want to go on a date with me
 ---
 
 Hi, my name is Abhishek and I am an undergraduate student at Indian Institute of Information and Technology Gwalior and pursuing B.Tech in Information Technology.
