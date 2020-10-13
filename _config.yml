@@ -18,6 +18,7 @@ author: Abhishek Kumar
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "https://sudoabhi.github.io/"
   Resume: "resume"
   Projects: "projects"
   About Me: "aboutme"
