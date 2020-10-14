@@ -10,7 +10,7 @@ url: "https://sudoabhi.github.io"
 title: Abhishek Kumar
 
 # Short description of your site
-description: Github repositories 
+description: This website is a virtual proof that I'm awesome.
 
 # Your name to show in the footer
 author: Abhishek Kumar
@@ -52,7 +52,7 @@ title-img: "/assets/img/avatar-icon.png"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  rss: true
+  rss: false
   email: "abhishek2606@hotmail.com"
   facebook: sudoabHi
   github: sudoabhi
