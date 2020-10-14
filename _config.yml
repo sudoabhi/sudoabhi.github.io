@@ -19,7 +19,8 @@ author: Abhishek Kumar
 
 navbar-links:
   Home: "https://sudoabhi.github.io/"
-  Resume: "files/Resume2.pdf"
+  #Resume: "files/Resume2.pdf"
+  Resume: "resume"
   Projects: "projects"
   About Me: "aboutme"
   Tags: "https://sudoabhi.github.io/tags/"
