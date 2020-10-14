@@ -23,8 +23,8 @@ Okay, here are my not-so-boring qualities that I love to flaunt about
 - I love video games, movies, literature and more.
 - I'm a crazy fan of iron man.
 
-% When I'm not brainstorming ideas or furiously typing away, you'll find me reading, geeking out about cool tech, or researching my latest obsession (UI/UX, consumer psychology, venture capital, to name a few).
-This website is my digital garden — a compendium of the things I've learned and created over the years. %
+<!-- When I'm not brainstorming ideas or furiously typing away, you'll find me reading, geeking out about cool tech, or researching my latest obsession (UI/UX, consumer psychology, venture capital, to name a few).
+This website is my digital garden — a compendium of the things I've learned and created over the years. -->
 
 If any of these things intrigue you, don't hesitate to reach out to me on [Linkedin](https://www.linkedin.com/in/sudoabhi/ "Abhishek Kumar") or [e-mail](mailto:abhishek2606@hotmail.com) me.
 
