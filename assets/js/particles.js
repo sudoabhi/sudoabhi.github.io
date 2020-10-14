@@ -5,7 +5,7 @@ particlesJS("particles-js", {
       "value": 80,
       "density": {
         "enable": true,
-        "value_area": 1200 } },
+        "value_area": 1600 } },
 
 
     "color": {
@@ -50,7 +50,7 @@ particlesJS("particles-js", {
 
     "move": {
       "enable": true,
-      "speed": 3,
+      "speed": 4,
       "direction": "none",
       "random": false,
       "straight": false,
@@ -67,11 +67,11 @@ particlesJS("particles-js", {
     "detect_on": "canvas",
     "events": {
       "onhover": {
-        "enable": true,
+        "enable": false,
         "mode": "grab" },
 
       "onclick": {
-        "enable": true,
+        "enable": false,
         "mode": "push" },
 
       "resize": true },
